@@ -10,6 +10,6 @@ class Main {
     suma=a+b;
     double potega=Math.pow(a,b);
     System.out.println("Suma liczb a oraz b to: "+suma);
-    System.out.println("Potęga liczb a oraz b to: "+potega);
+    System.out.println("Liczba a do potęgi b to: "+potega);
   }
 }
